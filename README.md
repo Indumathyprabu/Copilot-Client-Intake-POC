@@ -27,7 +27,7 @@ This POC automates the process:
 - **SharePoint List** – structured data storage.  
 - **Outlook** – automated email replies.  
 - **Copilot Studio** – conversational agent for natural language queries.  
-- *(Optional)* Azure AI Language Service / AI Builder – for advanced sentiment analysis (not used in this plan due to license).  
+ 
 
 ---
 
