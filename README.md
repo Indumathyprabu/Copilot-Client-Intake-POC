@@ -30,8 +30,8 @@ This POC automates the process:
 ![SharePoint Screenshot](assets/ClientRequestsSite - Client Requests - All Items.pdf)
 
 ### 4. Copilot Studio – Chatbot responding to queries
-![Bot Screenshot 1](assets/bot_response 1.png)
-![Bot Screenshot 2](assets/bot_response 2.png)
+![Bot Screenshot 1](assets/bot response 1.png)
+![Bot Screenshot 2](assets/bot response 2.png)
 
 
 ---
