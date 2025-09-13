@@ -31,7 +31,7 @@ This POC automates the process:
 
 ### 4. Copilot Studio – Chatbot responding to queries
 ![Bot Screenshot 1](assets/Response1.png)
-![Bot Screenshot 2](assets/botResponse2.png)
+![Bot Screenshot 2](assets/Response2.png)
 
 
 ---
