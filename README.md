@@ -17,7 +17,22 @@ This POC automates the process:
 3. **Rule-based urgency classification** (keywords like *urgent*, *emergency*) is applied.  
 4. **SharePoint list** stores all client requests with urgency status.  
 5. **Automated email notifications** are sent to confirm intake.  
-6. **Copilot Studio chatbot** enables natural language queries over the stored requests.  
+6. **Copilot Studio chatbot** enables natural language queries over the stored requests.
+## 📸 Screenshots
+
+### 1. Microsoft Form – Client Intake
+![Form Screenshot](assets/form.png)
+
+### 2. Power Automate Flow – Trigger → Condition → Create item
+![Flow Screenshot](assets/flow.png)
+
+### 3. SharePoint List – Client Requests with Urgency column
+![SharePoint Screenshot](assets/ClientRequestsSite.png)
+
+### 4. Copilot Studio – Chatbot responding to queries
+![Bot Screenshot 1](assets/bot_response1.png)
+![Bot Screenshot 2](assets/bot_response2.png)
+
 
 ---
 
