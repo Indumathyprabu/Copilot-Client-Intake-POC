@@ -27,11 +27,11 @@ This POC automates the process:
 ![Flow Screenshot](assets/flow.png)
 
 ### 3. SharePoint List – Client Requests with Urgency column
-![SharePoint Screenshot](assets/ClientRequestsSite.png)
+![SharePoint Screenshot](assets/ClientRequestsSite - Client Requests - All Items.pdf)
 
 ### 4. Copilot Studio – Chatbot responding to queries
-![Bot Screenshot 1](assets/bot_response1.png)
-![Bot Screenshot 2](assets/bot_response2.png)
+![Bot Screenshot 1](assets/bot_response 1.png)
+![Bot Screenshot 2](assets/bot_response 2.png)
 
 
 ---
